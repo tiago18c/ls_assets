@@ -1,0 +1,37 @@
+{
+    "name": "New Player Pack",
+    "symbol": "NPP",
+    "description": "tbd",
+    "seller_fee_basis_points": 0,
+    "image": "https://raw.githubusercontent.com/tiago18c/ls_assets/main/col/pack_face.jpg",
+    "external_url": "https://lmewo.com",
+    "attributes": [
+        {
+            "trait_type": "web",
+            "value": "yes"
+        },
+        {
+            "trait_type": "mobile",
+            "value": "yes"
+        },
+        {
+            "trait_type": "extension",
+            "value": "yes"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/tiago18c/ls_assets/main/col/pack_face.jpg",
+                "type": "image/jpg"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "tbd",
+                "share": 100
+            }
+        ]
+    }
+}
